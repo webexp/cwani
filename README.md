@@ -1,4 +1,2 @@
-cubes-die
+CWANI
 =========
-
-started
